@@ -1,0 +1,8 @@
+body {
+  height:100%;
+  background-color: lightslategray;
+  color: #fff;
+}
+.list-group-item>.badge {
+  background: slategray;
+}

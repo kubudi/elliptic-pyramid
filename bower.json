@@ -1,0 +1,17 @@
+{
+  "name": "elliptic-pyramid",
+  "homepage": "https://github.com/kubudi/elliptic-pyramid",
+  "authors": [
+    "Serpil Acar <acarserpil89@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
